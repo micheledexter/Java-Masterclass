@@ -36,5 +36,6 @@ public class Main {
         Account savings = new Account (24681357, 100.00, "Shely", "shely@example.com", "555-555-5555");
 
         Account unknown = new Account();
+        Account blank = new Account("Bob", "bob@example.com", "555-123-5555");
     }
 }
