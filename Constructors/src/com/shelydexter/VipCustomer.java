@@ -21,4 +21,16 @@ public class VipCustomer {
         this.emailAddress = emailAddress;
         System.out.println("VIP customer " + name + " created with credit limit of " + creditLimit + " and email " + emailAddress);
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public double getCreditLimit() {
+        return creditLimit;
+    }
+
+    public String getEmailAddress() {
+        return emailAddress;
+    }
 }

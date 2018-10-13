@@ -51,5 +51,8 @@ public class Main {
         VipCustomer snerf = new VipCustomer();
         VipCustomer mehhemmm = new VipCustomer("Mumflr", 10000.00);
         VipCustomer diggledeedoo = new VipCustomer("Ahem", 1000000.00, "ahem@example.com");
+        System.out.println(snerf.getName());
+        System.out.println(mehhemmm.getCreditLimit());
+        System.out.println(diggledeedoo.getEmailAddress());
     }
 }
