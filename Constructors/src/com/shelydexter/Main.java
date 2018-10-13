@@ -36,6 +36,20 @@ public class Main {
         Account savings = new Account (24681357, 100.00, "Shely", "shely@example.com", "555-555-5555");
 
         Account unknown = new Account();
+
         Account blank = new Account("Bob", "bob@example.com", "555-123-5555");
+
+        // Create a new class VipCustomer
+        // it should have 3 fields name, credit limit, and email address.
+        // create 3 constructors
+        // 1st constructor empty should call the constructor with 3 parameters with default values
+        // 2nd constructor should pass on the 2 values it receives and add a default value for the 3rd
+        // 3rd constructor should save all fields.
+        // create getters only for this using code generation of intellij as setters won't be needed
+        // test and confirm it works.
+
+        VipCustomer snerf = new VipCustomer();
+        VipCustomer mehhemmm = new VipCustomer("Mumflr", 10000.00);
+        VipCustomer diggledeedoo = new VipCustomer("Ahem", 1000000.00, "ahem@example.com");
     }
 }
