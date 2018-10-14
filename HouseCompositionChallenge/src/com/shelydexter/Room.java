@@ -24,7 +24,7 @@ public class Room {
 
     public void buildRoom() {
         System.out.println("Building room...");
-        System.out.println("Room is " + dimensions.getDimensions() + "with");
+        System.out.println("Room is " + dimensions.getDimensions() + " with");
         System.out.println(floor.getFloor()+ ", " + walls.getWall() + "s and a " + ceiling.getCeiling() + ".");
         if (hasFurniture) System.out.println("It has a " + furniture.getFurniture());
         System.out.println("It has " + windows + " windows and a " + door.getDoor());

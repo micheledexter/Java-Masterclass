@@ -12,7 +12,7 @@ public class Main {
         Furniture roomFurniture = new Furniture("couch", "leather", "black", new Dimensions(8, 4, 4), new Location(10, 30, 0));
         Room houseRoom = new Room(5, roomDoor,roomFloor, roomWalls, roomCeiling, roomDimensions, true, roomFurniture);
         House theHouse = new House(houseDimensions, houseRoom, "yellow", "shingle");
-        
+
         theHouse.buildHouse();
     }
 }
