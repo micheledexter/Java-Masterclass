@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23ce7ab6-0c20-4c42-9c79-d690eb12871b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Composition/com/shelydexter/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Composition/com/shelydexter/Case.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Composition/com/shelydexter/Dimensions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Composition/com/shelydexter/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Composition/com/shelydexter/Monitor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Composition/com/shelydexter/Motherboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Composition/com/shelydexter/PC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Composition/com/shelydexter/Resolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Composition/com/shelydexter/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/shelydexter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shelydexter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/shelydexter/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shelydexter/PC.java" afterDir="false" />
+    <list default="true" id="12f8b144-1a16-4bf7-9691-5a05773ee97e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/shelydexter/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/shelydexter/Case.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/shelydexter/Dimensions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/shelydexter/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/shelydexter/Monitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/shelydexter/Motherboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/shelydexter/PC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/shelydexter/Resolution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/shelydexter/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/shelydexter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/shelydexter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/shelydexter/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/shelydexter/PC.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,33 +23,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-303168815">
+    <session id="-1456830098">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.9" value="1" />
           <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="8" />
-          <entry key="kt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="8" />
-          <entry key="Kotlin" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2109" />
+          <entry key="java" value="4424" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2109" />
+          <entry key="JAVA" value="4424" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -59,62 +57,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/House.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Room.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Vehicle.java">
+        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Ceiling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Motherboard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Monitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Case.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/PC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="210">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -122,17 +93,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Dimensions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="240">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Resolution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Furniture.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="300">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Location.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Wall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Floor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Door.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -142,7 +149,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -153,21 +159,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/shelydexter/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/com/shelydexter/Car.java" />
-        <option value="$PROJECT_DIR$/src/com/shelydexter/Motherboard.java" />
-        <option value="$PROJECT_DIR$/src/com/shelydexter/Monitor.java" />
-        <option value="$PROJECT_DIR$/src/com/shelydexter/Resolution.java" />
-        <option value="$PROJECT_DIR$/src/com/shelydexter/Case.java" />
+        <option value="$PROJECT_DIR$/src/com/shelydexter/Location.java" />
         <option value="$PROJECT_DIR$/src/com/shelydexter/Dimensions.java" />
-        <option value="$PROJECT_DIR$/src/com/shelydexter/PC.java" />
+        <option value="$PROJECT_DIR$/src/com/shelydexter/Door.java" />
+        <option value="$PROJECT_DIR$/src/com/shelydexter/Floor.java" />
+        <option value="$PROJECT_DIR$/src/com/shelydexter/Wall.java" />
+        <option value="$PROJECT_DIR$/src/com/shelydexter/Furniture.java" />
+        <option value="$PROJECT_DIR$/src/com/shelydexter/Ceiling.java" />
+        <option value="$PROJECT_DIR$/src/com/shelydexter/Room.java" />
+        <option value="$PROJECT_DIR$/src/com/shelydexter/House.java" />
         <option value="$PROJECT_DIR$/src/com/shelydexter/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="76" />
-    <option name="y" value="72" />
+    <option name="x" value="106" />
+    <option name="y" value="77" />
     <option name="width" value="1246" />
     <option name="height" value="756" />
   </component>
@@ -179,21 +186,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Composition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Composition" type="462c0819:PsiDirectoryNode" />
+              <item name="HouseCompositionChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HouseCompositionChallenge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Composition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Composition" type="462c0819:PsiDirectoryNode" />
+              <item name="HouseCompositionChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HouseCompositionChallenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Composition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Composition" type="462c0819:PsiDirectoryNode" />
+              <item name="HouseCompositionChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HouseCompositionChallenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shelydexter" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -202,11 +210,10 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539536494179" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539536539060" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -226,7 +233,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.shelydexter.Main" />
-      <module name="Composition" />
+      <module name="HouseCompositionChallenge" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -245,16 +252,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="23ce7ab6-0c20-4c42-9c79-d690eb12871b" name="Default Changelist" comment="" />
-      <created>1539532509364</created>
+      <changelist id="12f8b144-1a16-4bf7-9691-5a05773ee97e" name="Default Changelist" comment="" />
+      <created>1539534121542</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539532509364</updated>
+      <updated>1539534121542</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="72" width="1246" height="756" extended-state="0" />
+    <frame x="106" y="77" width="1246" height="756" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -262,15 +269,14 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34165367" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -289,73 +295,73 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Resolution.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Door.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Resolution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Floor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Furniture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Dimensions.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Ceiling.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Room.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="360">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Location.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        <state relative-caret-position="225">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Motherboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Monitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Case.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/PC.java">
+    <entry file="file://$PROJECT_DIR$/src/com/shelydexter/House.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="210">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -411,7 +417,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Composition</last-edited>
+          <last-edited>HouseCompositionChallenge</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
