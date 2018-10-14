@@ -1,0 +1,34 @@
+package com.shelydexter;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Create a class and demonstrate proper encapsulation techniques
+        // the class will be called Printer
+        // It will simulate a real Computer Printer
+        // It should have fields for teh toner Level, number of pages printed, and
+        // also whether it's a duplex printer (capable of printing on both sides of the paper).
+        // Add methods to fill up the toner (up to a maximum of 100%), another method to
+        // simulate printing a page (which should increase the number of pages printed).
+        // Decide on the scope, whether to use constructors, and anything else you think is needed.
+
+        Printer newFaultyDuplex = new Printer(true, -10, new Toner(125), new Paper(-1));
+        newFaultyDuplex.showStatus();
+        newFaultyDuplex.print(75);
+        newFaultyDuplex.showStatus();
+
+        System.out.println();
+
+        Printer newDuplex = new Printer(true);
+        newDuplex.showStatus();
+        newDuplex.print(123);
+        newDuplex.showStatus();
+
+        System.out.println();
+
+        Printer newStandard = new Printer(false);
+        newStandard.showStatus();
+        newStandard.print(7);
+        newStandard.showStatus();
+    }
+}
