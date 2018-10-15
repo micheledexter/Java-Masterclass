@@ -33,10 +33,17 @@ public class Main {
         // adding totals to final price.
 
         // SHELY'S NOTE:
-        // I started this test with the assumption that I was supposed to follow good programming practices (don't
-        // rewrite code unnecessarily) which made this test very confusing.
-        // I finally realized later on that there was no way of doing this test without extensive copying and pasting
-        // of code, but because we were told right from the get-go
+        // I started this test with the assumption that we were supposed to apply what we'd learned up until this point
+        // to the test, with one of the first things being not to repeat our code. This made me realize that this
+        // test was basically entirely reused code without using lists or arrays.
+        // I have a MAJOR pet peeve with copying and pasting code, and especially of numbering variables, so decided
+        // that I wouldn't do the test and only write down his answer later on as a reference.
+        // Now, that being said, my code was definitely not the best, but it was extra confusing when the parameters
+        // of the test changed immediately after the video was un-paused. If there is a mistake in the video about
+        // what the parameters of the test are, they should not be corrected afterwards, because this immensely alters
+        // the code that anyone wrote. It should instead have been corrected before the video was paused.
+        // The result of all of the flaws of this test made me decide that it was completely faulty by design and not
+        // worth the trouble or time to complete.
 
         Addition addition = new Addition(3, 0.25);
         Lettuce lettuce = new Lettuce();
