@@ -21,7 +21,18 @@ public class Main {
 
         System.out.println("How many integers in the array? ");
         int count = scanner.nextInt();
-        int[] intArray = getIntegers(count);
+        int[] unsortedArray = getIntegers(count);
+
+        int[] sortedArray = sortIntegers(count, unsortedArray);
+
+        printArray(sortedArray);
+    }
+
+    public static void printArray(int[] intArray) {
+        for (int i=0; i<intArray.length; i++) System.out.println(intArray[i]);
+    }
+
+    public static int[] sortIntegers(int count, int[] intArray) {
 
         for (int x=0; x<count; x++) {
             for (int y=x+1; y<count; y++) {
@@ -32,9 +43,7 @@ public class Main {
                 }
             }
         }
-        for (int i=0; i<count; i++) {
-            System.out.println(intArray[i]);
-        }
+        return intArray;
     }
 
     public static int[] getIntegers(int number) {
