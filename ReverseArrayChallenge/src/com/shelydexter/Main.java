@@ -15,7 +15,10 @@ public class Main {
 
     private static void reverse(int[] array) {
 
-        int[] copyArray = array.clone();
-        for (int i=0; i<array.length; i++) array[i] = copyArray[(array.length - 1) - i];
+        for (int i=0; i<array.length/2; i++) {
+            int swap = array[i];
+            array[i] = array[array.length-1-i];
+            array[array.length-1-i] = swap;
+        }
     }
 }
