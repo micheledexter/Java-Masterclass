@@ -13,6 +13,7 @@ public class Main {
         int[] array = readIntegers(count);
         int min = findMin(array);
         System.out.println("Minimum value of this array is " + min + ".");
+        scanner.close();
     }
 
     public static int[] readIntegers(int count) {
