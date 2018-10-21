@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8d5bbaee-f111-40d9-b030-f8a51ed31fc3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shelydexter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shelydexter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shelydexter/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shelydexter/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallengeAnswer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallengeAnswer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallengeAnswer/out/production/ArrayListChallengeAnswer/com/shelydexter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallengeAnswer/out/production/ArrayListChallengeAnswer/com/shelydexter/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallengeAnswer/out/production/ArrayListChallengeAnswer/com/shelydexter/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallengeAnswer/out/production/ArrayListChallengeAnswer/com/shelydexter/MobilePhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallengeAnswer/src/com/shelydexter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallengeAnswer/src/com/shelydexter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallengeAnswer/src/com/shelydexter/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallengeAnswer/src/com/shelydexter/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -125,7 +128,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540061539614" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540154836535" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -174,7 +177,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-382" y="23" width="1246" height="756" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
