@@ -24,5 +24,24 @@ public class Main {
         // e.g. check if exists, or does not exist, etc.
         // Think about where you are adding the code to perform certain actions
 
+        Customer carl = new Customer("Carl");
+        Customer dave = new Customer("Dave");
+        carl.createTransaction(7.35);
+        carl.createTransaction(10.98);
+        dave.createTransaction(9.99);
+        dave.createTransaction(12.34);
+        System.out.println(carl.getTransactions());
+        System.out.println(dave.getTransactions());
+
+        Branch firstBranch = new Branch();
+        System.out.println(firstBranch.getCustomers());
+        firstBranch.addNewCustomer(carl);
+        System.out.println(firstBranch.getCustomers());
+        firstBranch.addNewCustomer(dave);
+        System.out.println(firstBranch.getCustomers());
+
+        Bank firstBank = new Bank(firstBranch);
+        System.out.println(firstBank.getBranches());
+
     }
 }

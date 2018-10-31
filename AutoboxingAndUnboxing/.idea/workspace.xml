@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b8f90f-ddb1-4a39-836e-c1b5aa6217bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoboxingAndUnboxing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoboxingAndUnboxing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/AutoboxingAndUnboxingChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/AutoboxingAndUnboxingChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/shelydexter/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/shelydexter/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/shelydexter/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/shelydexter/Branch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/shelydexter/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/shelydexter/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/shelydexter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/shelydexter/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,9 +22,10 @@
     <session id="1637834204">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -41,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -71,8 +76,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -128,15 +133,13 @@
     <frame x="0" y="23" width="1246" height="756" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25415283" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25830564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="SonarQube" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32917318" />
@@ -148,6 +151,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32917318" />
+      <window_info anchor="bottom" id="SonarQube" order="11" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -165,7 +170,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/shelydexter/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>
