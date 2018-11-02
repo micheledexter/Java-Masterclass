@@ -3,26 +3,6 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$PROJECT_DIR$/../AutoboxingAndUnboxingAnswer/src/com/shelydexter/Bank.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../AutoboxingAndUnboxingAnswer/src/com/shelydexter/Branch.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../AutoboxingAndUnboxingAnswer/src/com/shelydexter/Customer.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../AutoboxingAndUnboxingAnswer/src/com/shelydexter/Main.java">
-          <value>
-            <set />
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/src/com/shelydexter/Bank.java">
           <value>
             <set />

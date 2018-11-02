@@ -42,6 +42,5 @@ public class Main {
 
         Bank firstBank = new Bank(firstBranch);
         System.out.println(firstBank.getBranches());
-
     }
 }
