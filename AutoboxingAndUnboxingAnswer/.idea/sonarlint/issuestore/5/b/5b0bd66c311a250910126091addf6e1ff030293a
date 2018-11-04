@@ -1,0 +1,11 @@
+
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ƒìĞæıÿÿÿÿ8ú¹·«í,
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö¯úà8ûî†«í,
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(Ï¡ş“ûÿÿÿÿ8Ş³³«í,
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ËŠé8˜Ø©«í,
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ô˜”ûÿÿÿÿ8ù³°«í,
+Fsquid:S1068"(Remove this unused "name" private field.(Ë¥¼8¼Ğ…«í,

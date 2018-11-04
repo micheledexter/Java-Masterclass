@@ -1,8 +1,7 @@
 
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿èµ”
 squid:S1319"sThe type of the "branches" object should be an interface such as "List" rather than the implementation "ArrayList".(§İÎ‘øÿÿÿÿ
-Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Øÿº¼ûÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¦Âçşÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¦Âçşÿÿÿÿ8ÁùØì,
 O
 squid:S106"9Replace this use of System.out or System.err by a logger.(Œ¯÷’
+:squid:S1643"Use a StringBuilder instead.(ƒ¬óÿ8·ò¥Ùì,

@@ -4,6 +4,7 @@
     <list default="true" id="deb255e1-4d88-4c6b-b95d-7cb644ee64ac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxingAnswer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingAnswer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/shelydexter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shelydexter/Main.java" afterDir="false" />
     </list>
@@ -18,7 +19,7 @@
     <session id="1380972437">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -206,10 +207,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="151" y="79" width="1246" height="756" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.25830564" />
-      <window_info id="Structure" order="1" sideWeight="0.5023256" side_tool="true" visible="true" weight="0.25830564" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49921995" visible="true" weight="0.25830564" />
+      <window_info id="Structure" order="1" sideWeight="0.50078005" side_tool="true" visible="true" weight="0.25830564" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -218,7 +218,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917318" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

@@ -1,7 +1,7 @@
 
 usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ÞõÐüÿÿÿÿ
-Žsquid:S1319"wThe type of the "transactions" object should be an interface such as "List" rather than the implementation "ArrayList".(é›Å½
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(˜Íæú
 O
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÜªÒš
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜Íæú
+Žsquid:S1319"wThe type of the "transactions" object should be an interface such as "List" rather than the implementation "ArrayList".(é›Å½
