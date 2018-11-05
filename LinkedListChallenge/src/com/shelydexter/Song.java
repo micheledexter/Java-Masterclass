@@ -2,22 +2,16 @@ package com.shelydexter;
 
 public class Song {
     private String songTitle;
-    private String albumTitle;
 
-    public Song(String songTitle, String albumTitle) {
+    public Song(String songTitle) {
         this.songTitle = songTitle;
-        this.albumTitle = albumTitle;
     }
 
-    public static Song createNewSong(String songTitle, String albumTitle) {
-        return new Song(songTitle, albumTitle);
+    public static Song createNewSong(String songTitle) {
+        return new Song(songTitle);
     }
 
     public String getSongTitle() {
         return songTitle;
-    }
-
-    public String getAlbumTitle() {
-        return albumTitle;
     }
 }

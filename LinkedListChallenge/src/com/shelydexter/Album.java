@@ -18,12 +18,12 @@ public class Album {
         this.albumSongs = albumSongs;
     }
 
-    public boolean addSongToAlbum(Song newSong) {
-        if (findSongByTitle(newSong.getSongTitle()) != null) {
+    public boolean addSongToAlbum(String songTitle) {
+        if (findSongByTitle(songTitle) != null) {
             System.out.println("Song already exists in album");
             return false;
         }
-        albumSongs.add(newSong);
+        albumSongs.add(Song.createNewSong(songTitle));
         return true;
     }
 
