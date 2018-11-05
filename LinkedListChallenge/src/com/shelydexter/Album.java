@@ -1,6 +1,7 @@
 package com.shelydexter;
 
 import java.util.ArrayList;
+import java.util.ListIterator;
 
 public class Album {
     private String albumTitle;
@@ -15,6 +16,27 @@ public class Album {
         this.albumTitle = albumTitle;
         this.albumArtist = albumArtist;
         this.albumSongs = albumSongs;
+    }
+
+    public boolean addSongToAlbum(Song newSong) {
+        if (findSongByTitle(newSong.getSongTitle()) != null) {
+            System.out.println("Song already exists in album");
+            return false;
+        }
+        albumSongs.add(newSong);
+        return true;
+    }
+
+    public Song findSongByTitle(String songTitle) {
+        ListIterator<Song> listIterator = this.albumSongs.listIterator();
+
+        while (listIterator.hasNext()) {
+            Song current = listIterator.next();
+            if (current.getSongTitle() == songTitle) {
+                return current;
+            }
+        }
+        return null;
     }
 
     public String getAlbumTitle() {
