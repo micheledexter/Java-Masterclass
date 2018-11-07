@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d5a5d36-4f10-4f9e-b279-6c919755d843" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckPalindrome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckPalindrome/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckPalindrome/out/production/CheckPalindrome/com/shelydexter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckPalindrome/out/production/CheckPalindrome/com/shelydexter/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckPalindrome/src/com/shelydexter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckPalindrome/src/com/shelydexter/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/shelydexter/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shelydexter/Playlist.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,7 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541610937671" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541613058665" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
