@@ -9,16 +9,9 @@ public class Main {
     }
 
     public static boolean checkPalindrome(String inputString) {
-        String[] stringArray = inputString.split("\\s*[^A-Za-z]\\s*");
-        String forwards = "";
-        String backwards = "";
-        for (String word: stringArray) {
-            for (String letter: word.split("")) {
-                letter = letter.toLowerCase();
-                forwards += letter;
-                backwards = letter + backwards;
-            }
-        }
+        String[] stringArray = inputString.toLowerCase().split("\\s*[^A-Za-z0-9]\\s*");
+        String forwards = String.join("", stringArray);
+        String backwards = new StringBuilder(forwards).reverse().toString();
         if (forwards.equals(backwards)) {
             return true;
         }
