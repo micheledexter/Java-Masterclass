@@ -33,6 +33,7 @@ public class Playlist {
             Scanner scanner = new Scanner(System.in);
             String action = scanner.nextLine();
             action = action.toLowerCase();
+            scanner.close();
             switch (action) {
                 case "y": case "yes":
                     break;
